@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, Tuysh! 👋</h1>
+<h1 align="center">¡Hola, soy Tuysh! 👋</h1>
 <h3 align="center">Desarrollador Full Stack apasionado por crear soluciones elegantes y funcionales</h3>
 
 <p align="center">
