@@ -25,18 +25,6 @@
 
 ---
 
-### 🛠️ Proyectos Destacados
-
-| Proyecto       | Rol                        | Tecnologías                                    |
-|----------------|----------------------------|------------------------------------------------|
-| **Pardalis**   | Líder de proyecto          | Go, Svelte, Tailwind, MySQL                    |
-| **AniSun**     | Full Stack Developer       | React, PHP                                     |
-| **Simulador de Campo Eléctrico** | Front & Back Developer | Go, HTML, CSS, ELM                            |
-| **Paket CLI**  | Developer                  | Node.js, JavaScript                            |
-| **Descuentos XML** | Developer              | Python, XML                                    |
-
----
-
 ### 📈 Stats
 
 <p align="center">
