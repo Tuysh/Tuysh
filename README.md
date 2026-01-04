@@ -17,7 +17,7 @@
 ### 🧰 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,svelte,html,css,tailwind,nodejs,mysql,git,python,linux" />
+  <img src="https://skillicons.dev/icons?i=python,svelte,ts,tailwind,go,nodejs,mysql,git" />
 </p>
 
 ---
